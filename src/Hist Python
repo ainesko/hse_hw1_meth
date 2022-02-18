@@ -1,0 +1,14 @@
+Код для создания гистограмм (пример для одного графика, остальные аналогично)
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+sns.set_style("darkgrid")
+
+
+df = pd.read_csv("SRR5836473_1_bismark_bt2_pe.bam_deduplicated.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
+
+plt.figure(figsize=[10, 6])
+plt.title("Метилирование 8 cell", fontsize=16)
+plt.hist(df[3], bins=100, density=True)
+plt.show()
