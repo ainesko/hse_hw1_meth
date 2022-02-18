@@ -60,4 +60,8 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 
 # f) pyGenomeTracks
 
+***Метилирование***
+![image](https://user-images.githubusercontent.com/93263861/154756195-31f98798-881f-477d-af80-0151c144dcf6.png)
+
+***Покрытие***
 ![image](https://user-images.githubusercontent.com/93263861/154720544-dec7ea80-1406-4d01-add2-c1361e411f8f.png)
