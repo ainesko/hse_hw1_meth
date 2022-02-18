@@ -13,6 +13,28 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 
 # 1. FastQC
 
+Отчёт FastQC показал отклоения по 3 параметрам.
+
+***1) Per base sequence content (SRR5836473_1/SRR5836473_2)***
+
+![image](https://user-images.githubusercontent.com/93263861/154757782-2d4bb201-cee8-4511-9d2b-2953fd0249f5.png)
+
+![image](https://user-images.githubusercontent.com/93263861/154758487-5c20cb7e-1a7a-4c16-aba7-e10c6e200aff.png)
+
+
+***2) Per sequence GC content (SRR5836473_1/SRR5836473_2)***
+
+![image](https://user-images.githubusercontent.com/93263861/154757824-6052d54c-ded1-45b6-ad94-931b195e7abe.png)
+
+![image](https://user-images.githubusercontent.com/93263861/154758520-e39579a2-d2e7-4539-b4c8-31102954c91c.png)
+
+
+***3) Sequence Length Distribution (SRR5836473_1/SRR5836473_2)***
+
+![image](https://user-images.githubusercontent.com/93263861/154757906-f76b23b8-7075-4521-a2c3-6876f8d493f4.png)
+
+![image](https://user-images.githubusercontent.com/93263861/154758554-28b577db-15bf-46f6-81eb-fc5f3f0f3605.png)
+
 
 
 # 2. a, b)
