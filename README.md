@@ -24,29 +24,29 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 ![image](https://user-images.githubusercontent.com/93263861/154711269-42a75855-6b63-492a-8565-d3dd24a5730e.png)
 
 
-***d) M-bias plot. ***
+***d) M-bias plot.***
 
-***SRR3824222 ***
+***SRR3824222***
 
 ![image](https://user-images.githubusercontent.com/93263861/154754977-d1183588-3e69-4419-a811-534ab69240a5.png)
 
 ![image](https://user-images.githubusercontent.com/93263861/154755003-691814f8-f440-456b-b528-5e459a97d8f4.png)
 
 
-***SRR5836473 ***
+***SRR5836473***
 
 ![image](https://user-images.githubusercontent.com/93263861/154754843-e8edc312-18b5-4327-9741-39a106fe4cff.png)
 
 ![image](https://user-images.githubusercontent.com/93263861/154754886-afd33deb-5e2a-493b-b3d7-99a8c26f8b3a.png)
 
 
-***SRR5836475 ***
+***SRR5836475***
 
 ![image](https://user-images.githubusercontent.com/93263861/154754705-42eb85a6-74d3-450b-b73a-73d1ce4a51fd.png)
 
 ![image](https://user-images.githubusercontent.com/93263861/154754735-768edba8-b700-4821-b2d0-e1e4956196df.png)
 
 
-***f) pyGenomeTracks ***
+***f) pyGenomeTracks***
 
 ![image](https://user-images.githubusercontent.com/93263861/154720544-dec7ea80-1406-4d01-add2-c1361e411f8f.png)
