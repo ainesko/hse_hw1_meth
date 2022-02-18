@@ -17,3 +17,9 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 
 ![image](https://user-images.githubusercontent.com/93263861/154711269-42a75855-6b63-492a-8565-d3dd24a5730e.png)
 
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/93263861/154720544-dec7ea80-1406-4d01-add2-c1361e411f8f.png)
