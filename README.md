@@ -15,7 +15,7 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 
 
 
-# 2. 
+# 2. a, b)
 
 ***a) Число ридов, закартированных на участки 11347700-11367700; 40185800-40195800.***
 
@@ -24,7 +24,7 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 ![image](https://user-images.githubusercontent.com/93263861/154711269-42a75855-6b63-492a-8565-d3dd24a5730e.png)
 
 
-***d) M-bias plot.***
+# d) M-bias plot.
 
 ***SRR3824222***
 
@@ -47,6 +47,17 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 ![image](https://user-images.githubusercontent.com/93263861/154754735-768edba8-b700-4821-b2d0-e1e4956196df.png)
 
 
-***f) pyGenomeTracks***
+# e) Гистограммы распределения метилирования цитозинов по хромосоме 
+
+![image](https://user-images.githubusercontent.com/93263861/154755553-4f37fc42-fab0-431b-9b5b-c910ec3244c1.png)
+
+
+![image](https://user-images.githubusercontent.com/93263861/154755523-4e2a9c92-1c2d-4ed7-bb54-c9fa46980b39.png)
+
+
+![image](https://user-images.githubusercontent.com/93263861/154755494-ebdd8b68-ece1-4536-aa4e-a494b5868c94.png)
+
+
+# f) pyGenomeTracks
 
 ![image](https://user-images.githubusercontent.com/93263861/154720544-dec7ea80-1406-4d01-add2-c1361e411f8f.png)
