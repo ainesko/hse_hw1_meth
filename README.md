@@ -59,6 +59,10 @@ SRR3824222 - Epiblast – стадия эпибласта, примерно 6.5 
 
 ***b) Процент дуплицированных прочтений в каждом из образцов. (Бонус)***
 
+bash-скрипт для дедупликации всех образцов одновременно:
+
+! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark --bam --paired -o s_{} {}
+
 ![image](https://user-images.githubusercontent.com/93263861/154711269-42a75855-6b63-492a-8565-d3dd24a5730e.png)
 
 
